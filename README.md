@@ -2,4 +2,4 @@
 
 Article Summarizer Application using OpenAI's GPT model.
 
-Link to Deployed site : https://shorturl.at/yDELM
+Link to Deployed site : https://shorturl.at/gilHL
